@@ -7,8 +7,8 @@ TrendTrove é uma loja online com um site de controle de compras de carrinho, on
 Confira a versão ao vivo do projeto: [Loja TrendTrove](https://produtos-trendtrove.netlify.app/)
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="assets/images/Layout_TrendTrove.png" alt="Captura de Tela do Projeto" width="400" height="316"">
-  <img src="assets/layout.gif" alt="GIF de Tela de Exibição" width="146" height="316">
+  <img src="assets/images/Layout_TrendTrove.png" alt="Captura de Tela do Projeto" width="410" height="326"">
+  <img src="assets/layout.gif" alt="GIF de Tela de Exibição" width="156" height="326">
 </div>
 
 ## Funcionalidades
